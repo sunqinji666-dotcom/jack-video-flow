@@ -1,0 +1,5 @@
+docs/404_*
+docs/*archive*
+*.jsonl
+*.html
+__pycache__/
