@@ -1,6 +1,6 @@
 # Jack Video Flow
 
-![Project visual](docs/assets/hero-system-v1.png)
+![jack-video-flow project visual](docs/assets/jack-video-flow-hero.png)
 
 Local-first video workflow templates for relay, review, and publishing. Credentials, private archives, and personal source material are intentionally excluded from the public release.
 

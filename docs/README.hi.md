@@ -2,7 +2,7 @@
 
 Local-first video workflow templates for relay, review, and publishing.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![jack-video-flow project visual](assets/jack-video-flow-hero.png)
 
 Language: हिन्दी. See the [English guide](README.en.md) or [中文首页](../README.md) for setup, privacy, and contribution details.
 

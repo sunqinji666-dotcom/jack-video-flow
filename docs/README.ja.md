@@ -2,7 +2,7 @@
 
 Local-first video workflow templates for relay, review, and publishing.
 
-![プロジェクトのビジュアル](docs/assets/hero-system-v1.png)
+![jack-video-flow project visual](assets/jack-video-flow-hero.png)
 
 ## できること
 
