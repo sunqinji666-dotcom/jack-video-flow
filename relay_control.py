@@ -7,7 +7,6 @@ import base64
 import os
 import websocket
 
-WS_URL = "ws://119.29.193.16:25818"
 TOKEN = os.environ.get("CLAUDE_RELAY_TOKEN", "")
 WS_URL = os.environ.get("CLAUDE_RELAY_WS_URL", "ws://127.0.0.1:25818")
 OUTPUT_DIR = os.environ.get("RELAY_OUTPUT_DIR", "./output")

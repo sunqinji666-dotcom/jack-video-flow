@@ -1,5 +1,6 @@
 docs/404_*
 docs/*archive*
+docs/scraping_and_analysis_record.md
 *.jsonl
 *.html
 __pycache__/
